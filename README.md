@@ -18,6 +18,7 @@ python train.py
 ## Test
 Training logs and checkpoints are available at:
 * 百度网盘权重文件：[权重文件](https://pan.baidu.com/share/init?surl=Hqis60HFyzqIJ7dgC4A-Qg) 提取密码:9qy7
+
 This code is highly borrowed from [FANet](https://github.com/nikhilroxtomar/FANet). Thanks to Nikhil Kumar Tomar.
 
 This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
