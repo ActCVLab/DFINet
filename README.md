@@ -24,9 +24,8 @@ This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/B
 
 ## Citation
 If you use this code, please kindly cite our paper:
-
-@article{WU2026111958,
 ```
+@article{WU2026111958,
 title = {DFINet: Dynamic feedback iterative network for infrared small target detection},
 journal = {Pattern Recognition},
 volume = {169},
