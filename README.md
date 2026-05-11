@@ -19,7 +19,8 @@ This code is highly borrowed from [FANet](https://github.com/nikhilroxtomar/FANe
 This code is highly borrowed from [IRSTD-Toolbox](https://github.com/XinyiYing/BasicIRSTD). Thanks to Xinyi Ying.
 
 ## Citation
-## If you use this code, please kindly cite our paper:
+If you use this code, please kindly cite our paper:
+
 @article{WU2026111958,
 title = {DFINet: Dynamic feedback iterative network for infrared small target detection},
 journal = {Pattern Recognition},
