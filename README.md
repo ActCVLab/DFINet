@@ -7,9 +7,9 @@ Paper: https://www.sciencedirect.com/science/article/abs/pii/S0031320325006181
 
 3.In order to effectively aggregate high-level and low-level features, a novel feedback-based cross-layer feature fusion module DSFM is proposed.
 ## Framework of DFINet
-!(https://github.com/uisdu/DFINet/blob/main/Fig/framework.png)
+![Framework of DFINet](https://github.com/uisdu/DFINet/blob/main/Fig/framework.png)
 ## Visual
-!(https://github.com/uisdu/DFINet/blob/main/Fig/iter.png)
+![Visual](https://github.com/uisdu/DFINet/blob/main/Fig/iter.png)
 ## Train
 To train DFINet from scratch, run:
 ```
