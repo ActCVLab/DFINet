@@ -9,7 +9,7 @@ Paper: https://www.sciencedirect.com/science/article/abs/pii/S0031320325006181
 ## Framework of DFINet
 ![Framework of DFINet](https://github.com/ActCVLab/DFINet/blob/main/Fig/framework.png)
 ## Visual
-![Visual](https://github.com/uisdu/DFINet/blob/main/Fig/iter.png)
+![Visual](https://github.com/ActCVLab/DFINet/blob/main/Fig/iter.png)
 ## Train
 To train DFINet from scratch, run:
 ```
